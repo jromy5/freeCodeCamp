@@ -29,7 +29,7 @@
     "gatsby-link": "^2.2.0",
     "gatsby-plugin-create-client-paths": "^2.1.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
-    "gatsby-plugin-manifest": "^2.2.0",
+    "gatsby-plugin-manifest": "^5.12.3",
     "gatsby-plugin-react-helmet": "^3.1.0",
     "gatsby-plugin-sitemap": "^2.2.0",
     "gatsby-remark-prismjs": "^3.3.0",
